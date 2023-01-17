@@ -185,6 +185,7 @@ const singleCharBigOps: {[string]: string} = {
     "\u2a01": "\\bigoplus",
     "\u2a02": "\\bigotimes",
     "\u2a04": "\\biguplus",
+    "\u2a05": "\\bigsqcap",
     "\u2a06": "\\bigsqcup",
 };
 
@@ -193,9 +194,9 @@ defineFunction({
     names: [
         "\\coprod", "\\bigvee", "\\bigwedge", "\\biguplus", "\\bigcap",
         "\\bigcup", "\\intop", "\\prod", "\\sum", "\\bigotimes",
-        "\\bigoplus", "\\bigodot", "\\bigsqcup", "\\smallint", "\u220F",
-        "\u2210", "\u2211", "\u22c0", "\u22c1", "\u22c2", "\u22c3", "\u2a00",
-        "\u2a01", "\u2a02", "\u2a04", "\u2a06",
+        "\\bigoplus", "\\bigodot", "\\bigsqcap", "\\bigsqcup", "\\smallint",
+        "\u220F", "\u2210", "\u2211", "\u22c0", "\u22c1", "\u22c2", "\u22c3",
+        "\u2a00", "\u2a01", "\u2a02", "\u2a04", "\u2a06",
     ],
     props: {
         numArgs: 0,

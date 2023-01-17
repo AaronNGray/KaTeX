@@ -665,6 +665,7 @@ defineSymbol(math, main, op, "\u2a00", "\\bigodot");
 defineSymbol(math, main, op, "\u222e", "\\oint");
 defineSymbol(math, main, op, "\u222f", "\\oiint");
 defineSymbol(math, main, op, "\u2230", "\\oiiint");
+defineSymbol(math, main, op, "\u2a05", "\\bigsqcap");
 defineSymbol(math, main, op, "\u2a06", "\\bigsqcup");
 defineSymbol(math, main, op, "\u222b", "\\smallint");
 defineSymbol(text, main, inner, "\u2026", "\\textellipsis");

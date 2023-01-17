@@ -161,7 +161,7 @@ $\gdef\VERT{|}$
 |\bigotimes|$\bigotimes$||
 |\bigr|$\bigr)$|`\bigr)`|
 |\Bigr|$\Bigr)$|`\Bigr)`|
-|\bigsqcap|<span style="color:firebrick;">Not supported</span>|[Issue #1222](https://github.com/KaTeX/KaTeX/issues/1222)|
+|\bigsqcap|$\bigsqcap$|[Issue #1222](https://github.com/KaTeX/KaTeX/issues/1222)|
 |\bigsqcup|$\bigsqcup$||
 |\bigstar|$\bigstar$||
 |\bigtriangledown|$\bigtriangledown$||
